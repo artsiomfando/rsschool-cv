@@ -12,7 +12,7 @@ My goal is to become a professional Java Script developer. I've never worked in 
 
 ## Skills
 
-I have a little experience in Java Script. Now I'm in learning process.
+I have a little experience in Java Script and HTML, CSS. Now I'm in learning process.
 
 ## Experience
 
