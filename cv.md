@@ -55,7 +55,7 @@ tabsContainer.addEventListener('click', function (e) {
 
 ## Language
 
-English B2. I successfully completed Streamline English Course at Upper Intermediate level in 2019.
+English, B2. I successfully completed Streamline English Course at Upper Intermediate level in 2019.
 
 I'd been working in the sport journalism for 10 years before last autumn (last 3 years as a Deputy Editor-in-chief of "Pressball", the most popular sport edition and web site in Belarus). My duties included correspondence with different foreign structures (for instance, International Olympic committee) and business trips, where I had an opportunity to apply language skills and keep it active. Besides, I translated some own essays for international competition (The AIPS Sport Media Awards).
 
