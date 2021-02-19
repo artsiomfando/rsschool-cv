@@ -20,6 +20,31 @@ I have a little experience in Java Script. Now I'm in learning process.
 
 2021\. Video Course on udemy.com "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann
 
+## Code example
+
+```javascript
+// Tabbed component
+
+tabsContainer.addEventListener('click', function (e) {
+  const clicked = e.target.closest('.operations__tab');
+
+  // Guard clause
+  if (!clicked) return;
+
+  // Remove active classes
+  tabs.forEach(t => t.classList.remove('operations__tab--active'));
+  tabsContent.forEach(c => c.classList.remove('operations__content--active'));
+
+  // Activate tab
+  clicked.classList.add('operations__tab--active');
+
+  // Activate content area
+  document
+    .querySelector(`.operations__content--${clicked.dataset.tab}`)
+    .classList.add('operations__content--active');
+});
+```
+
 ## Education
 
 2007 — 2012. Belorussian National Technical University with a degree in economics
